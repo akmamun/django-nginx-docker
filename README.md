@@ -7,11 +7,8 @@ Requirements:
 
 - Default requirements mentioned above.
 - Docker Latest
-- PostgreSQL Latest
 
 Follow these steps:
-- Install `virtualenv` with `pip install virtualenv`
-- Create an env in this folder called `ENV` (naming is important) `virtualenv ./env`
 - Make a file name `.env.docker` add add
 ```sh
 POSTGRES_USER=postgres
