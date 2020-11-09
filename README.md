@@ -4,12 +4,10 @@
 ## Installation
 
 Requirements:
-
-- Default requirements mentioned above.
 - Docker Latest
 
 Follow these steps:
-- Make a file name `.env.docker` add add
+- Make a file name `.env.docker` add for postgres
 ```sh
 POSTGRES_USER=postgres
 POSTGRES_PASSWORD=giveapassword
