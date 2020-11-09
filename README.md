@@ -1,4 +1,5 @@
-# Instruction for Docker Deployment 
+# Dockerizing Django with Postgres, Gunicorn, and Nginx
+## Instruction for Docker Deployment 
 
 ## Installation
 
