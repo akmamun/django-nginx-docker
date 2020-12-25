@@ -7,6 +7,9 @@ Requirements:
 - Docker Latest
 
 Follow these steps:
+
+- Make a file name `.env`
+- In`.env` file change `SQL_HOST="db"` or `DB_HOST="db"`
 - Make a file name `.env.docker` add for postgres
 ```sh
 POSTGRES_USER=postgres
